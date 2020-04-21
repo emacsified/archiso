@@ -79,7 +79,22 @@ wvdial
 xfsprogs
 xl2tpd
 
-vim
+archiso
+base-devel
+cmake
+compton
+curl
 emacs
+feh
+firefox
+gcc
+i3
+kde
+networkmanager
+python
+rofi
+sddm
 sudo
-
+termite
+vim
+xorg
